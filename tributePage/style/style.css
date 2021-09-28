@@ -1,0 +1,11 @@
+body {
+    margin-top: 60px;
+    background-color: #FFFAFA;
+    text-align: center;
+}
+
+.text {
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
